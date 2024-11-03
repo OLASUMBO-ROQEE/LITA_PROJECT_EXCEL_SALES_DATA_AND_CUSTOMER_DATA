@@ -34,4 +34,3 @@ This is where we include some basic class of codes or the DAX expressions used d
 
 ### Data Visualisation
 
-https://github.com/OLASUMBO-ROQEE/LITA_PROJECT_SALES_DATA_AND_CUSTOMER_DATA/blob/main/Screenshot%202024-11-03%20223534.png

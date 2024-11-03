@@ -30,4 +30,7 @@ EDA involves the exploring of the data to answer some questions about the data s
 
 ### Data Analysis
 This is where we include some basic class of codes or the DAX expressions used during your analysis.
-```Excel
+```Excel```
+
+### Data Visualisation
+

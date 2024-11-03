@@ -8,4 +8,26 @@ This Data Analysis Project aims to generate insight into the sales performance o
 ### Data Sources
 The primary source of data used here is sales data and customer data from The Incubator Hub Lita Project.
 
-### Tools
+### Tools Used
+- Microsoft Excel [Download here](https://www.microsoft.com)
+  1. Data cleaning
+  2.  Analysis
+  3.  For Data Visualization.
+     
+- Github for portfolio building.
+
+### Data cleaning and preparations
+In the initial phase of the data cleaning and preparations, we performed the following action
+1. Data Loading and Inspection.
+2. Handling missing variables.
+3. Data cleaning and formatting.
+
+### Exploratory Data Analysis
+EDA involves the exploring of the data to answer some questions about the data such as :
+- What is the average sales per product?
+- What is the total sales per product,region and month?
+- What is the total revenue by region?
+
+### Data Analysis
+This is where we include some basic class of codes or the DAX expressions used during your analysis.
+```Excel

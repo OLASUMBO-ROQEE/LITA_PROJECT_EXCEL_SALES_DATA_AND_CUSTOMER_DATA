@@ -34,3 +34,5 @@ This is where we include some basic class of codes or the DAX expressions used d
 
 ### Data Visualisation
 
+![Screenshot 2024-11-03 223534](https://github.com/user-attachments/assets/fd6e1da8-76b5-4f86-8f20-f44c129ede3a)
+

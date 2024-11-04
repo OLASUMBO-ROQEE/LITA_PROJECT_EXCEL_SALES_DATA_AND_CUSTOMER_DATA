@@ -37,4 +37,6 @@ This is where we include some basic class of codes or the DAX expressions used d
 ![Screenshot 2024-11-03 225244](https://github.com/user-attachments/assets/2497a767-d6ae-445d-a4a6-817c5c005166)
 
 
-![Screenshot 2024-11-03 225244](https://github.com/user-attachments/assets/df0bbeaf-d5fa-4e15-bde3-8e2df8254376)
+![Screenshot 2024-11-03 223534](https://github.com/user-attachments/assets/abdf9c0e-f695-4800-a864-d893e0ac89b7)
+
+![Screenshot 2024-11-03 223534](https://github.com/user-attachments/assets/dc04f4ae-a7ec-4809-9839-dd718dc29df7)
